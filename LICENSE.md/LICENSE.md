@@ -9,7 +9,7 @@
 <script>
 var text = "";
 var i = 0;
-while (i < 100) {
+while (i < 101) {
     text += "<br>The number is " + i;
     i++;
 }
